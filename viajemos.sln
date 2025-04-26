@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viajemos", "viajemos\viajem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viajemos.Client", "viajemos\viajemos.Client\viajemos.Client.csproj", "{764A0487-7EF9-4B17-AFFA-54CA87F6071B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viajemos.Data", "viajemos\viajemos.Data\viajemos.Data.csproj", "{1EA34859-8106-4AD5-9D3F-11CCFBA98EF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{764A0487-7EF9-4B17-AFFA-54CA87F6071B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{764A0487-7EF9-4B17-AFFA-54CA87F6071B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{764A0487-7EF9-4B17-AFFA-54CA87F6071B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA34859-8106-4AD5-9D3F-11CCFBA98EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA34859-8106-4AD5-9D3F-11CCFBA98EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA34859-8106-4AD5-9D3F-11CCFBA98EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA34859-8106-4AD5-9D3F-11CCFBA98EF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
